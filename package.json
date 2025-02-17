@@ -1,0 +1,19 @@
+{
+  "name": "vue-fullcalendar-jalali",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kerasus/vue-fullcalendar-jalali"
+  },
+  "keywords": ["vue", "fullcalendar", "jalali"],
+  "author": "Ali Esmaeeli <a.esmaeili@asredanesh.com>",
+  "contributors": [
+    {
+      "name": "Ali Esmaeeli",
+      "email": "aliesmaeeli20@gmail.com",
+      "url": "https://github.com/kerasus/vue-fullcalendar-jalali"
+    }
+  ],
+  "license": "MIT"
+}
